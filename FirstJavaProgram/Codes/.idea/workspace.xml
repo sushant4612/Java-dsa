@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="514e8bb9-e6c5-49d4-8f60-2d3020effe1b" name="Changes" comment="" />
+    <list default="true" id="514e8bb9-e6c5-49d4-8f60-2d3020effe1b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Fibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Nc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Ptr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstJavaProgram/Assignment/EvenOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstJavaProgram/Assignment/EvenOdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstJavaProgram/Assignment/Greeting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstJavaProgram/Assignment/Greeting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/EvenOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/Greeting.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +31,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IyK5FPIFFTi9L8wu5gradp8pCy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,24 +48,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Greeting">
-    <configuration name="CelToFarh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.CelToFarh" />
-      <module name="FirstJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment.EvenOdd" />
+  <component name="RunManager" selected="Application.Armstrong">
+    <configuration name="Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.Armstrong" />
       <module name="FirstJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -57,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment.Greeting" />
+    <configuration name="Conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.Conversion" />
       <module name="FirstJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -70,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Prime" />
+    <configuration name="Fibo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.Fibo" />
       <module name="FirstJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +91,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Sum" />
+    <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.LargestNumber" />
       <module name="FirstJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.Palindrome" />
+      <module name="FirstJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Greeting" />
-        <item itemvalue="Application.EvenOdd" />
-        <item itemvalue="Application.CelToFarh" />
-        <item itemvalue="Application.Prime" />
-        <item itemvalue="Application.Sum" />
+        <item itemvalue="Application.Armstrong" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.Fibo" />
+        <item itemvalue="Application.Conversion" />
+        <item itemvalue="Application.LargestNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -116,5 +137,37 @@
       <updated>1671148379263</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Assignment/Fibo.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Assignment/Palindrome.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Assignment/Armstrong.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
