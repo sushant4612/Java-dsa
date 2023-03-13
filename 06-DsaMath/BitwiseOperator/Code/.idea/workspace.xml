@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc319098-13f0-4bfe-9836-888acbfdce73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice/FindUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/FindUniqueOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/MagicNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/NoOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/RangeXOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/SetBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05-Recurssion/Recurssion-01/Code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05-Recurssion/Recurssion-01/Code/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fc319098-13f0-4bfe-9836-888acbfdce73" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -42,8 +32,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.RangeXOR">
+  <component name="RunManager" selected="Application.NoOfDigits">
+    <configuration name="FindUniqueOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.FindUniqueOdd" />
+      <module name="06-DsaMath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MagicNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.MagicNumber" />
       <module name="06-DsaMath" />
@@ -70,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.PowerOfTwo" />
+    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.PascalTriangle" />
       <module name="06-DsaMath" />
       <extension name="coverage">
         <pattern>
@@ -96,26 +100,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.SetBits" />
-      <module name="06-DsaMath" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RangeXOR" />
-        <item itemvalue="Application.SetBits" />
-        <item itemvalue="Application.PowerOfTwo" />
         <item itemvalue="Application.NoOfDigits" />
+        <item itemvalue="Application.PascalTriangle" />
         <item itemvalue="Application.MagicNumber" />
+        <item itemvalue="Application.FindUniqueOdd" />
+        <item itemvalue="Application.RangeXOR" />
       </list>
     </recent_temporary>
   </component>
