@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="185e543d-7522-46c7-a373-11b37f23ebf4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f06d5175-8027-456b-8fef-37b4e431d2c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Practice/IsSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/RBS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Recurssion-02 (EASY)/Code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Recurssion-02 (EASY)/Code/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -25,7 +29,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2MxnxUnvIXacb1BHRA5YdbU1Knn" />
+  <component name="ProjectId" id="2N0Mlqdtvwa7Z6EA4u4vjG7wfDZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,11 +38,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.CountZeros">
-    <configuration name="CountZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.CountZeros" />
+  <component name="RunManager" selected="Application.RBS">
+    <configuration name="IsSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.IsSorted" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
@@ -50,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Palindrome" />
+    <configuration name="LinearSearch" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Practice.LinearSearch" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
@@ -63,34 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.ProductOfDigits" />
-      <module name="Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.ReverseNumber" />
-      <module name="Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.SumOfDigits" />
+    <configuration name="RBS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.RBS" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
@@ -104,22 +84,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountZeros" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.ReverseNumber" />
-        <item itemvalue="Application.ProductOfDigits" />
-        <item itemvalue="Application.SumOfDigits" />
+        <item itemvalue="Application.RBS" />
+        <item itemvalue="Application.IsSorted" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="185e543d-7522-46c7-a373-11b37f23ebf4" name="Changes" comment="" />
-      <created>1678718351329</created>
+      <changelist id="f06d5175-8027-456b-8fef-37b4e431d2c6" name="Changes" comment="" />
+      <created>1678796707011</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678718351329</updated>
+      <updated>1678796707011</updated>
     </task>
     <servers />
   </component>
