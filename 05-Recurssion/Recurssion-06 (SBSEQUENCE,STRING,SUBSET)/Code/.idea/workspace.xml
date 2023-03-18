@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62442cc1-cd15-437d-bbd1-9a2342587062" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Practice/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/SelectionSort.java" afterDir="false" />
+    <list default="true" id="14edc6f6-5337-48f3-8901-3460c121ff6a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Practice/Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/SubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Subset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Recurssion-04 (PATTERNS)/Codes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Recurssion-04 (PATTERNS)/Codes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Recurssion-04 (PATTERNS)/Codes/out/production/Codes/Practice/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Recurssion-04 (PATTERNS)/Codes/out/production/Codes/Practice/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Recurssion-04 (PATTERNS)/Codes/src/Practice/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Recurssion-04 (PATTERNS)/Codes/src/Practice/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Recurssion-05 (SORTING)/Code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Recurssion-05 (SORTING)/Code/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +31,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2N2U4S4koKTxUbHQTaTbunZs9ea" />
+  <component name="ProjectId" id="2N86Hsns71iRVI5B3IZPW93anDS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,19 +41,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../java" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Practice" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.SelectionSort">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.BubbleSort" />
-      <module name="Codes" />
+  <component name="RunManager" selected="Application.Subset">
+    <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Stream" />
+      <module name="Code" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice.*" />
@@ -59,9 +56,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.SelectionSort" />
-      <module name="Codes" />
+    <configuration name="SubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.SubSequence" />
+      <module name="Code" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice.*" />
@@ -72,9 +69,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Triangle" />
-      <module name="Codes" />
+    <configuration name="Subset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Subset" />
+      <module name="Code" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice.*" />
@@ -87,20 +84,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.Triangle" />
+        <item itemvalue="Application.Subset" />
+        <item itemvalue="Application.SubSequence" />
+        <item itemvalue="Application.Stream" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="62442cc1-cd15-437d-bbd1-9a2342587062" name="Changes" comment="" />
-      <created>1678861482785</created>
+      <changelist id="14edc6f6-5337-48f3-8901-3460c121ff6a" name="Changes" comment="" />
+      <created>1679033282042</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678861482785</updated>
+      <updated>1679033282042</updated>
     </task>
     <servers />
   </component>
@@ -114,20 +111,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Practice/Triangle.java</url>
-          <line>18</line>
-          <properties class="Practice.Triangle" method="triangle2">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

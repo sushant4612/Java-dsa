@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dafa4e89-5798-403b-bb98-b59f46937ec2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Recurssion-03(ARRAY)/Code/src/Practice/IsSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Recurssion-03(ARRAY)/Code/src/Practice/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Recurssion-03(ARRAY)/Code/src/Practice/RBS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Recurssion-04 (PATTERNS)/Codes/src/Practice/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Recurssion-04 (PATTERNS)/Codes/src/Practice/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Recurssion-04 (PATTERNS)/Codes/src/Practice/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/MergeSortInplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Recurssion-02 (EASY)/Code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Recurssion-02 (EASY)/Code/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dafa4e89-5798-403b-bb98-b59f46937ec2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../java" />
   </component>
   <component name="RunManager" selected="Application.QuickSort">
     <configuration name="InBetweenPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
