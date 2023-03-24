@@ -2,7 +2,7 @@ package Practice;
 
 public class Palindrome {
     public static void main(String[] args) {
-        System.out.println(palin(1210));
+        System.out.println(palin(2002));
     }
 
     static  boolean palin(int n){

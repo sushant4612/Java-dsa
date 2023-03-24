@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="185e543d-7522-46c7-a373-11b37f23ebf4" name="Changes" comment="">
+    <list default="true" id="dc3c4531-4960-4b57-8e6d-91d6d1eb2f6d" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../../Recurssion-07 (PERMUTATION)/Codes/src/Practice/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recurssion-08 (Dice &amp; Letter Combination Question)/Code/src/Practice/DiceCombination.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Recurssion-08 (Dice &amp; Letter Combination Question)/Code/src/Practice/LetterCombination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recurssion-08 (Dice &amp; Letter Combination Question)/Code/src/Practice/NumPad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/AllPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Maze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Recurssion-02 (EASY)/Code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Recurssion-02 (EASY)/Code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Recurssion-02 (EASY)/Code/out/production/Code/Practice/CountZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Recurssion-02 (EASY)/Code/out/production/Code/Practice/CountZeros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Recurssion-02 (EASY)/Code/out/production/Code/Practice/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Recurssion-02 (EASY)/Code/out/production/Code/Practice/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Recurssion-02 (EASY)/Code/src/Practice/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Recurssion-02 (EASY)/Code/src/Practice/Palindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Recurssion-06 (SBSEQUENCE,STRING,SUBSET)/Code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Recurssion-06 (SBSEQUENCE,STRING,SUBSET)/Code/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +35,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2MxnxUnvIXacb1BHRA5YdbU1Knn" />
+  <component name="ProjectId" id="2NHO3Mkt91azNrrE1qr8sZc6THD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,9 +46,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Palindrome">
-    <configuration name="CountZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.CountZeros" />
+  <component name="RunManager" selected="Application.AllPath">
+    <configuration name="AllPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.AllPath" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
@@ -54,47 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Palindrome" />
-      <module name="Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProductOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.ProductOfDigits" />
-      <module name="Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.ReverseNumber" />
-      <module name="Code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.SumOfDigits" />
+    <configuration name="Maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Maze" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
@@ -108,22 +75,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.CountZeros" />
-        <item itemvalue="Application.ReverseNumber" />
-        <item itemvalue="Application.ProductOfDigits" />
-        <item itemvalue="Application.SumOfDigits" />
+        <item itemvalue="Application.AllPath" />
+        <item itemvalue="Application.Maze" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="185e543d-7522-46c7-a373-11b37f23ebf4" name="Changes" comment="" />
-      <created>1678718351329</created>
+      <changelist id="dc3c4531-4960-4b57-8e6d-91d6d1eb2f6d" name="Changes" comment="" />
+      <created>1679317358068</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678718351329</updated>
+      <updated>1679317358068</updated>
     </task>
     <servers />
   </component>
