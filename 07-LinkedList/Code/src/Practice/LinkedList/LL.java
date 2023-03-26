@@ -1,4 +1,4 @@
-package Practice;
+package Practice.LinkedList;
 
 public class LL {
 
@@ -47,6 +47,20 @@ public class LL {
         temp.next = node;
 
         size++;
+    }
+
+    public void insertRec(int val, int index){
+        insertRecc(val,index,head);
+    }
+
+    private Node insertRecc(int val,int index ,Node node){
+        if(index == 0){
+            Node temp = new Node(val,node);
+            size++;
+            return temp;
+        }
+        node.next = insertRecc(val, index-1, node.next);
+        return node;
     }
 
     public int deleteFirst(){

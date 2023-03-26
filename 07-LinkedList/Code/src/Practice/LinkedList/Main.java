@@ -1,4 +1,6 @@
-package Practice;
+package Practice.LinkedList;
+
+import Practice.LinkedList.LL;
 
 public class Main {
     public static void main(String[] args) {
