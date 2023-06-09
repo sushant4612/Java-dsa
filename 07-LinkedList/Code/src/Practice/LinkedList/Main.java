@@ -12,11 +12,20 @@ public class Main {
         list.insertLast(150);
         list.insert(23,3);
         list.display();
-        System.out.println(list.deleteFirst());
-        list.display();
         System.out.println(list.deleteLast());
         list.display();
         System.out.println(list.delete(2));
         list.display();
+//        list.bubbleSort();
+//        list.display();
+//        list.reverse();
+//        list.display();
+
+//        System.out.println(list.deleteFirst());
+//        list.display();
+//        System.out.println(list.deleteLast());
+//        list.display();
+//        System.out.println(list.delete(2));
+//        list.display();
     }
 }

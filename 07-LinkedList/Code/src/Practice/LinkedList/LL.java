@@ -10,6 +10,55 @@ public class LL {
         this.size = 0;
     }
 
+    public void bubbleSort(){
+        sort(size-1,0);
+    }
+
+    public void sort(int r,int c){
+        if(r == 0){
+            return;
+        }
+        if(r>c){
+            Node first = get(c);
+            Node second = get(c+1);
+
+            if(first.value > second.value){
+                if(first == head){
+                    first.next = second.next;
+                    second.next = first;
+                    head = second;
+                }else if(tail == second){
+                    Node pre = get(c-1);
+                    pre.next = second;
+                    second.next = first;
+                    first.next = null;
+                    tail = first;
+                }else{
+                    Node pre = get(c-1);
+                    pre.next = second;
+                    first.next = second.next;
+                    second.next = first;
+                }
+            }
+            sort(r,c+1);
+        }else{
+            sort(r-1,0);
+        }
+    }
+    public  void reverse(){
+        reverseRec(head);
+    }
+    public void reverseRec(Node node){
+        if(node == null){
+            head = tail;
+            return;
+        }
+        reverseRec(node.next);
+        tail.next = node;
+        tail = node;
+        tail.next = null;
+    }
+
     public void insertFirst(int value){
         Node node = new Node(value);
         node.next = head;
@@ -30,7 +79,6 @@ public class LL {
         tail = node;
         size++;
     }
-
     public void insert(int value,int index){
         if(index == 0){
             insertFirst(value);
@@ -74,13 +122,16 @@ public class LL {
     }
 
     public int deleteLast(){
-        if(size<=1){
-            deleteFirst();
+        if(size <= 1){
+            return deleteFirst();
         }
-        Node node = get(size-2);
+        Node temp = get(size-2);
+//        while(temp.next.next!=null) {
+//            temp = temp.next;
+//        }
         int val = tail.value;
-        node.next = null;
-        tail = node;
+        temp.next = null;
+        tail = temp;
         size--;
         return val;
     }
@@ -92,9 +143,9 @@ public class LL {
         if(index == size-1){
             return deleteLast();
         }
-        Node node = get(index);
-        int val = node.next.value;
-        node.next = node.next.next;
+        Node temp = get(index-1);
+        int val = temp.next.value;
+        temp.next = temp.next.next;
         size--;
         return val;
     }
@@ -111,12 +162,23 @@ public class LL {
     }
 
     public Node get(int index){
-        Node node = head;
-        for (int i = 0; i < index-1 ; i++) {
-            node = node.next;
+        Node temp = head;
+        for (int i = 0; i < index ; i++) {
+            temp = temp.next;
         }
-        return node;
+        return temp;
     }
+
+//    public void reverse(Node node){
+//        if(node == tail){
+//            head = tail;
+//            return;
+//        }
+//        reverse(node.next);
+//        tail.next = node;
+//        tail = node;
+//        node.next = null;
+//    }
 
     public void display(){
         Node temp = head;

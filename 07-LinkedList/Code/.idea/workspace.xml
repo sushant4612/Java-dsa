@@ -5,16 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc9ceb84-91b9-43c7-bc0d-eaaa7c1705f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice/CircularLinkedList/CLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/CircularLinkedList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/DoublyLinkedList/DLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/DoublyLinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/CycleDetection/Cycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09-OOP/Code/src/AccesControl/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09-OOP/Code/src/AccesControl/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09-OOP/Code/src/AccesControl/Objects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09-OOP/Code/src/Introduction/GarbageCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09-OOP/Code/src/Introduction/WrapperExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09-OOP/Code/src/Packages/A/Greetings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09-OOP/Code/src/Packages/B/Greetings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09-OOP/Code/src/Properties/Inheritance/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09-OOP/Code/src/Properties/Inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09-OOP/Code/src/Singleton/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09-OOP/Code/src/Singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09-OOP/Code/src/StaticExample/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09-OOP/Code/src/StaticExample/InnerClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09-OOP/Code/src/StaticExample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09-OOP/Code/src/StaticExample/StaticBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-10 (Backtracking Questions)/Code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-10 (Backtracking Questions)/Code/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code/Practice/LL$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code/Practice/LL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Code/Practice/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/LinkedList/LL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/LinkedList/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Practice/CircularLinkedList/CLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Practice/CircularLinkedList/CLL$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Practice/CircularLinkedList/CLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Practice/CircularLinkedList/CLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Practice/LinkedList/LL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Practice/LinkedList/LL$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Practice/LinkedList/LL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Practice/LinkedList/LL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Practice/LinkedList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Practice/LinkedList/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/DoublyLinkedList/DLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/DoublyLinkedList/DLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/LinkedList/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/LinkedList/LL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/LinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/LinkedList/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +63,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.DoublyLinkedList.Main" />
       <module name="Code" />
@@ -89,9 +105,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>

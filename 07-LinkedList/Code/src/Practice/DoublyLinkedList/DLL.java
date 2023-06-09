@@ -57,20 +57,17 @@ public class DLL {
 
     public void display(){
         Node temp = head;
-        Node last = null;
-        while (temp!=null){
-            System.out.print(temp.val + "-> ");
-            last = temp;
+        while(temp.next!=null){
+            System.out.print(temp.val + "->");
             temp = temp.next;
         }
-        System.out.println("END");
-
-        System.out.println("Print in Reverse");
-        while (last!=null){
-            System.out.print(last.val + "-> ");
-            last = last.prev;
+        System.out.println(temp.val + "-> END");
+        System.out.println("In Reverse");
+        while (temp!=null) {
+            System.out.print(temp.val + "->");
+            temp = temp.prev;
         }
-        System.out.println("End");
+        System.out.println("START");
     }
 
     private class Node{
