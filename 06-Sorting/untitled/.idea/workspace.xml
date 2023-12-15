@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78337516-c44c-421b-ac4b-154e1f17dbd3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/04-PatternsQuestion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/out/production/04-PatternsQuestion/Question/Pattern9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-PatternsQuestion/src/Question/Pattern9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-01/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-01/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-01/Code/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-01/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-01/Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-01/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-01/Code/out/production/Code/Practice/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-01/Code/out/production/Code/Practice/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-01/Code/src/Practice/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-01/Code/src/Practice/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-01/Notes/Recursion 01.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/out/production/Code/Practice/CountZeros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/out/production/Code/Practice/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/out/production/Code/Practice/NumberOfSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/out/production/Code/Practice/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/out/production/Code/Practice/Print5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/out/production/Code/Practice/ProductOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/out/production/Code/Practice/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/out/production/Code/Practice/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/out/production/Code/Practice/SumOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/src/Practice/CountZeros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/src/Practice/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/src/Practice/NumberOfSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/src/Practice/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/src/Practice/Print5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/src/Practice/ProductOfDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/src/Practice/ReverseNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/src/Practice/Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Code/src/Practice/SumOfDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-02 (EASY)/Notes/RecursionEasy.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-03(ARRAY)/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-03(ARRAY)/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-03(ARRAY)/Code/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-03(ARRAY)/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-03(ARRAY)/Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-03(ARRAY)/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-03(ARRAY)/Code/out/production/Code/META-INF/Code.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-03(ARRAY)/Code/out/production/Code/Practice/IsSorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-03(ARRAY)/Code/out/production/Code/Practice/LinearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-03(ARRAY)/Code/out/production/Code/Practice/RBS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-03(ARRAY)/Code/src/Practice/IsSorted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-03(ARRAY)/Code/src/Practice/LinearSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-03(ARRAY)/Code/src/Practice/RBS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-03(ARRAY)/Notes/array.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-04 (PATTERNS)/Codes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-04 (PATTERNS)/Codes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-04 (PATTERNS)/Codes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-04 (PATTERNS)/Codes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-04 (PATTERNS)/Codes/Codes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-04 (PATTERNS)/Codes/out/production/Codes/Practice/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-04 (PATTERNS)/Codes/out/production/Codes/Practice/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-04 (PATTERNS)/Codes/out/production/Codes/Practice/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-04 (PATTERNS)/Codes/src/Practice/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-04 (PATTERNS)/Codes/src/Practice/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-04 (PATTERNS)/Codes/src/Practice/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-05 (SORTING)/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-05 (SORTING)/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-05 (SORTING)/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-05 (SORTING)/Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-05 (SORTING)/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-05 (SORTING)/Code/out/production/Code/Practice/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-05 (SORTING)/Code/out/production/Code/Practice/MergeSortInplace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-05 (SORTING)/Code/out/production/Code/Practice/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-05 (SORTING)/Code/src/Practice/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-05 (SORTING)/Code/src/Practice/MergeSortInplace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-05 (SORTING)/Code/src/Practice/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-05 (SORTING)/Notes/sorting.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-06 (SBSEQUENCE,STRING,SUBSET)/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-06 (SBSEQUENCE,STRING,SUBSET)/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-06 (SBSEQUENCE,STRING,SUBSET)/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-06 (SBSEQUENCE,STRING,SUBSET)/Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-06 (SBSEQUENCE,STRING,SUBSET)/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-06 (SBSEQUENCE,STRING,SUBSET)/Code/out/production/Code/Practice/Stream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-06 (SBSEQUENCE,STRING,SUBSET)/Code/out/production/Code/Practice/SubSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-06 (SBSEQUENCE,STRING,SUBSET)/Code/out/production/Code/Practice/Subset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-06 (SBSEQUENCE,STRING,SUBSET)/Code/src/Practice/Stream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-06 (SBSEQUENCE,STRING,SUBSET)/Code/src/Practice/SubSequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-06 (SBSEQUENCE,STRING,SUBSET)/Code/src/Practice/Subset.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-07 (PERMUTATION)/Codes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-07 (PERMUTATION)/Codes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-07 (PERMUTATION)/Codes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-07 (PERMUTATION)/Codes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-07 (PERMUTATION)/Codes/Codes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-07 (PERMUTATION)/Codes/out/production/Codes/Practice/Permutations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-07 (PERMUTATION)/Codes/out/production/Codes/Practice/rev.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-07 (PERMUTATION)/Codes/src/Practice/Permutations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-08 (Dice &amp; Letter Combination Question)/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-08 (Dice &amp; Letter Combination Question)/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-08 (Dice &amp; Letter Combination Question)/Code/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-08 (Dice &amp; Letter Combination Question)/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-08 (Dice &amp; Letter Combination Question)/Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-08 (Dice &amp; Letter Combination Question)/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-08 (Dice &amp; Letter Combination Question)/Code/out/production/Code/Practice/DiceCombination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-08 (Dice &amp; Letter Combination Question)/Code/out/production/Code/Practice/LetterCombination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-08 (Dice &amp; Letter Combination Question)/Code/out/production/Code/Practice/NumPad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-08 (Dice &amp; Letter Combination Question)/Code/src/Practice/DiceCombination.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-08 (Dice &amp; Letter Combination Question)/Code/src/Practice/LetterCombination.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-08 (Dice &amp; Letter Combination Question)/Code/src/Practice/NumPad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-09 (Backtracking &amp; Maze Problem)/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-09 (Backtracking &amp; Maze Problem)/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-09 (Backtracking &amp; Maze Problem)/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-09 (Backtracking &amp; Maze Problem)/Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-09 (Backtracking &amp; Maze Problem)/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-09 (Backtracking &amp; Maze Problem)/Code/out/production/Code/Practice/AllPath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-09 (Backtracking &amp; Maze Problem)/Code/out/production/Code/Practice/Maze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-09 (Backtracking &amp; Maze Problem)/Code/src/Practice/AllPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-09 (Backtracking &amp; Maze Problem)/Code/src/Practice/Maze.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-10 (Backtracking Questions)/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-10 (Backtracking Questions)/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-10 (Backtracking Questions)/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-10 (Backtracking Questions)/Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-10 (Backtracking Questions)/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-10 (Backtracking Questions)/Code/out/production/Code/Practice/NKnights.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-10 (Backtracking Questions)/Code/out/production/Code/Practice/NQueens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-10 (Backtracking Questions)/Code/src/Practice/NKnights.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-Recurssion/Recurssion-10 (Backtracking Questions)/Code/src/Practice/NQueens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/06-DsaMath.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/out/production/06-DsaMath/Assignment/BinaryAddition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/out/production/06-DsaMath/Assignment/ReverseBit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/out/production/06-DsaMath/Assignment/SingleNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/out/production/06-DsaMath/Practice/FindUnique.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/out/production/06-DsaMath/Practice/FindUniqueOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/out/production/06-DsaMath/Practice/IsOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/out/production/06-DsaMath/Practice/MagicNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/out/production/06-DsaMath/Practice/NoOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/out/production/06-DsaMath/Practice/PascalTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/out/production/06-DsaMath/Practice/Power.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/out/production/06-DsaMath/Practice/PowerOfTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/out/production/06-DsaMath/Practice/RangeXOR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/out/production/06-DsaMath/Practice/SetBits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/out/production/06-DsaMath/Practice/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/src/Assignment/BinaryAddition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/src/Assignment/CountingBits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/src/Assignment/NoOfOneBits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/src/Assignment/ReverseBit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/src/Assignment/SingleNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/src/Practice/FindUnique.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/src/Practice/FindUniqueOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/src/Practice/IsOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/src/Practice/MagicNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/src/Practice/NoOfDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/src/Practice/PascalTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/src/Practice/Power.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/src/Practice/PowerOfTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/src/Practice/RangeXOR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/src/Practice/SetBits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Code/src/Practice/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/BitwiseOperator/Notes/DsaMath1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/Maths/Code/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/Maths/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/Maths/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/Maths/Code/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/Maths/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/Maths/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/Maths/Code/out/production/Code/Practice/BinarySearchSQRT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/Maths/Code/out/production/Code/Practice/FactorOfNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/Maths/Code/out/production/Code/Practice/GCD_LCM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/Maths/Code/out/production/Code/Practice/NewtonRapson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/Maths/Code/out/production/Code/Practice/Prime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/Maths/Code/out/production/Code/Practice/Sieve.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/Maths/Code/src/Practice/BinarySearchSQRT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/Maths/Code/src/Practice/FactorOfNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/Maths/Code/src/Practice/GCD_LCM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/Maths/Code/src/Practice/NewtonRapson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/Maths/Code/src/Practice/Prime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/Maths/Code/src/Practice/Sieve.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-DsaMath/Maths/Notes/DsaMath2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/out/production/Code/Practice/CircularLinkedList/CLL$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/out/production/Code/Practice/CircularLinkedList/CLL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/out/production/Code/Practice/CircularLinkedList/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/out/production/Code/Practice/CycleDetection/Cycle$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/out/production/Code/Practice/CycleDetection/Cycle$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/out/production/Code/Practice/CycleDetection/Cycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/out/production/Code/Practice/DoublyLinkedList/DLL$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/out/production/Code/Practice/DoublyLinkedList/DLL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/out/production/Code/Practice/DoublyLinkedList/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/out/production/Code/Practice/LinkedList/LL$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/out/production/Code/Practice/LinkedList/LL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/out/production/Code/Practice/LinkedList/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/src/Practice/CircularLinkedList/CLL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/src/Practice/CircularLinkedList/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/src/Practice/CycleDetection/Cycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/src/Practice/DoublyLinkedList/DLL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/src/Practice/DoublyLinkedList/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/src/Practice/LinkedList/LL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-LinkedList/Code/src/Practice/LinkedList/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/Code/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/Code/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/Code/src/CustomQueue/CircularQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/Code/src/CustomQueue/CustomQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/Code/src/CustomQueue/DynamicQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/Code/src/CustomQueue/InbuiltQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/Code/src/CustomQueue/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/Code/src/CustomStacks/CustomStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/Code/src/CustomStacks/DynamicStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/Code/src/CustomStacks/InbuiltStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/Code/src/CustomStacks/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Stack-Queue/Code/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/out/production/Code/Introduction/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/out/production/Code/Introduction/GarbageCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/out/production/Code/Introduction/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/out/production/Code/Introduction/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/out/production/Code/Introduction/WrapperExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/out/production/Code/Packages/A/Greetings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/out/production/Code/Packages/B/Greetings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/out/production/Code/Properties/Inheritance/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/out/production/Code/Properties/Inheritance/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/out/production/Code/Singleton/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/out/production/Code/Singleton/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/out/production/Code/StaticExample/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/out/production/Code/StaticExample/InnerClasses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/out/production/Code/StaticExample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/out/production/Code/StaticExample/StaticBlocks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/src/AccesControl/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/src/AccesControl/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/src/AccesControl/Objects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/src/Introduction/GarbageCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/src/Introduction/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/src/Introduction/WrapperExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/src/Packages/A/Greetings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/src/Packages/B/Greetings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/src/Properties/Inheritance/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/src/Properties/Inheritance/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/src/Singleton/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/src/Singleton/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/src/StaticExample/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/src/StaticExample/InnerClasses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/src/StaticExample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-OOP/Code/src/StaticExample/StaticBlocks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-Trees/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-Trees/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-Trees/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-Trees/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-Trees/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-Trees/untitled/src/BinaryTree/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-Trees/untitled/src/BinaryTree/BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-Trees/untitled/src/BinaryTree/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-Trees/untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-Trees/untitled/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2RmHXsaIVlRdEp545a78WGAjgEW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78337516-c44c-421b-ac4b-154e1f17dbd3" name="Changes" comment="" />
+      <created>1687848379189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687848379189</updated>
+    </task>
+    <servers />
+  </component>
+</project>
