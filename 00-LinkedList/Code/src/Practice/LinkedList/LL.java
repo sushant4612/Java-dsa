@@ -1,4 +1,4 @@
-package Practice.LinkedList;
+ackage Practice.LinkedList;
 
 public class LL {
 
