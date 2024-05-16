@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00-College/00-College.iml" filepath="$PROJECT_DIR$/00-College/00-College.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-Hashing/00-Hashing.iml" filepath="$PROJECT_DIR$/00-Hashing/00-Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-LinkedList/00-LinkedList.iml" filepath="$PROJECT_DIR$/00-LinkedList/00-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-OOP/00-OOP.iml" filepath="$PROJECT_DIR$/00-OOP/00-OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-PatternsQuestion/00-PatternsQuestion.iml" filepath="$PROJECT_DIR$/00-PatternsQuestion/00-PatternsQuestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-Stack-Queue/00-Stack-Queue.iml" filepath="$PROJECT_DIR$/00-Stack-Queue/00-Stack-Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-Trees/00-Trees.iml" filepath="$PROJECT_DIR$/00-Trees/00-Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-FirstJavaProgram/01-FirstJavaProgram.iml" filepath="$PROJECT_DIR$/01-FirstJavaProgram/01-FirstJavaProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-ConditionalStatement/02-ConditionalStatement.iml" filepath="$PROJECT_DIR$/02-ConditionalStatement/02-ConditionalStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Functions/03-Functions.iml" filepath="$PROJECT_DIR$/03-Functions/03-Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Arrays &amp; Arratlist/04-Arrays &amp; Arratlist.iml" filepath="$PROJECT_DIR$/04-Arrays &amp; Arratlist/04-Arrays &amp; Arratlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Searching/05-Searching.iml" filepath="$PROJECT_DIR$/05-Searching/05-Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Sorting/06-Sorting.iml" filepath="$PROJECT_DIR$/06-Sorting/06-Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-DsaMath/BitwiseOperator/BitwiseOperator.iml" filepath="$PROJECT_DIR$/00-DsaMath/BitwiseOperator/BitwiseOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Dsa.iml" filepath="$PROJECT_DIR$/.idea/Java-Dsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-DsaMath/Maths/Maths.iml" filepath="$PROJECT_DIR$/00-DsaMath/Maths/Maths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-Recurssion/Recurssion-01/Recurssion-01.iml" filepath="$PROJECT_DIR$/00-Recurssion/Recurssion-01/Recurssion-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-Recurssion/Recurssion-02 (EASY)/Recurssion-02 (EASY).iml" filepath="$PROJECT_DIR$/00-Recurssion/Recurssion-02 (EASY)/Recurssion-02 (EASY).iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-Recurssion/Recurssion-03(ARRAY)/Recurssion-03(ARRAY).iml" filepath="$PROJECT_DIR$/00-Recurssion/Recurssion-03(ARRAY)/Recurssion-03(ARRAY).iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-Recurssion/Recurssion-04 (PATTERNS)/Recurssion-04 (PATTERNS).iml" filepath="$PROJECT_DIR$/00-Recurssion/Recurssion-04 (PATTERNS)/Recurssion-04 (PATTERNS).iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-Recurssion/Recurssion-05 (SORTING)/Recurssion-05 (SORTING).iml" filepath="$PROJECT_DIR$/00-Recurssion/Recurssion-05 (SORTING)/Recurssion-05 (SORTING).iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-Recurssion/Recurssion-06 (SBSEQUENCE,STRING,SUBSET)/Recurssion-06 (SBSEQUENCE,STRING,SUBSET).iml" filepath="$PROJECT_DIR$/00-Recurssion/Recurssion-06 (SBSEQUENCE,STRING,SUBSET)/Recurssion-06 (SBSEQUENCE,STRING,SUBSET).iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-Recurssion/Recurssion-07 (PERMUTATION)/Recurssion-07 (PERMUTATION).iml" filepath="$PROJECT_DIR$/00-Recurssion/Recurssion-07 (PERMUTATION)/Recurssion-07 (PERMUTATION).iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-Recurssion/Recurssion-08 (Dice &amp; Letter Combination Question)/Recurssion-08 (Dice &amp; Letter Combination Question).iml" filepath="$PROJECT_DIR$/00-Recurssion/Recurssion-08 (Dice &amp; Letter Combination Question)/Recurssion-08 (Dice &amp; Letter Combination Question).iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-Recurssion/Recurssion-09 (Backtracking &amp; Maze Problem)/Recurssion-09 (Backtracking &amp; Maze Problem).iml" filepath="$PROJECT_DIR$/00-Recurssion/Recurssion-09 (Backtracking &amp; Maze Problem)/Recurssion-09 (Backtracking &amp; Maze Problem).iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-Recurssion/Recurssion-10 (Backtracking Questions)/Recurssion-10 (Backtracking Questions).iml" filepath="$PROJECT_DIR$/00-Recurssion/Recurssion-10 (Backtracking Questions)/Recurssion-10 (Backtracking Questions).iml" />
+    </modules>
+  </component>
+</project>
